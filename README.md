@@ -19,11 +19,22 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
 **Linguagem**: Python<br>
-
 É necessário ter o python3 instalado em sua máquina, junto do jupyter notebook.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+```powershell
+# Clone o repositório
+https://github.com/projeto-de-algoritmos/Final_MapColorer
+
+# Entre no anaconda prompt e digite
+jupyter-notebook
+
+# Navegue para o diretório onde o projeto foi baixado
+
+# Rode o projeto
+
+## É necessário a instalação de das bibliotecas numpy, cartopy, matplotlib e geopandas para o funcionamento correto do projeto.
+```
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
