@@ -15,9 +15,9 @@
 Nosso projeto simula a coloração de um mapa de países baseados em grafos. Na teoria de grafos existe um algoritmo que faz a coloração dos vértices de um grafo, porém, vértices vizinho não podem possuir a mesma cor. Naturalmente, dependendo do jeito que o grafo é construído e suas arestas são dispostas, o número mínimo de cores necessária para colorir um determinado grafo, varia. Inserindo o contexto de mapas, os países que fazem fronteiras em si, não podem possuir a mesma cor. Lembrando que os vértices dos grafos são os países.
 
 ## Screenshots
-<img src="/midias/algoritmo_coloracao.png" alt="Github" width="800"/>
-<img src="/midias/ligacoes_paises_vizinhos.png" alt="Github" width="800"/>
-<img src="/midias/mapa_colorido.png" alt="Github" width="800"/>
+<img src="/midias/algoritmo_coloracao.png" alt="Github" width="500"/>
+<img src="/midias/ligacoes_paises_vizinhos.png" alt="Github" width="500"/>
+<img src="/midias/mapa_colorido.png" alt="Github" width="500"/>
 
 ## Instalação 
 **Linguagem**: Python<br>
@@ -35,7 +35,7 @@ jupyter-notebook
 
 # Rode o projeto
 
-## É necessário a instalação de das bibliotecas numpy, cartopy, matplotlib e geopandas para o funcionamento correto do projeto.
+## É necessário a instalação das bibliotecas numpy, cartopy, matplotlib e geopandas para o funcionamento correto do projeto.
 ```
 
 ## Outros 
