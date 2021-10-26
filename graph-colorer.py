@@ -48,6 +48,8 @@ if __name__ == '__main__':
     g1 = addEdge(g1, 3, 4)
     print("Coloring of graph 1 ")
     greedyColoring(g1, 5)
+
+    print(g1[2])
  
     g2 = [[] for i in range(5)]
     g2 = addEdge(g2, 0, 1)
